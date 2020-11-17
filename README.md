@@ -1,5 +1,5 @@
 # Music-Data-Visualization
-Performed music data visualization using python-seaborn library and matplotlib library
+Performed music data visualization using python-seaborn library and matplotlib library on FMA dataset
 
 
 Data Source: https://github.com/mdeff/fma
